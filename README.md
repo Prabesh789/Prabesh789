@@ -5,10 +5,6 @@
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prabesh789)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋, I'm Prabesh Rai.
-#### Flutter Developer.
-I'm Prabesh from Nepal, and I am a Flutter develper.
-
 Skills: Flutter and dart.
 
 - 🔭 I’m currently working on Yello Nepal as Flutter developer. 
