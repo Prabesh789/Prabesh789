@@ -7,7 +7,7 @@
 
 Skills: Flutter and dart.
 
-- 🔭 I’m currently working on Yello Nepal as Flutter developer. 
+- 🔭 I’m currently working on Yellow Nepal as Flutter developer. 
 - 🌱 I’m currently learning more about Flutter. 
 
 
