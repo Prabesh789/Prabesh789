@@ -1,13 +1,13 @@
 ### Warm Greetings, Hi...
 
- I'm Prabesh from Nepal, and I am a Flutter develper.
+ I'm Prabesh from Nepa, and I am a Flutter developer.
  
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prabesh789)](https://github.com/anuraghazra/github-readme-stats)
 
 Skills: Flutter and dart.
 
-- 🔭 I’m currently working on Yellow Nepal as Flutter developer. 
+- 🔭 I’m currently working at Yellow Nepal as a Flutter developer and Freelencer. 
 - 🌱 I’m currently learning more about Flutter. 
 
 
