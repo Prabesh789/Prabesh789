@@ -9,6 +9,7 @@ I'm **Prabesh Rai**, a **Former Flutter Developer**, currently pursuing a **Busi
 
 ## 🛠 Skills
 - **Programming**: Dart & Flutter, Python, SQL, MySQL
+- **Machine Learning**: Supervised Learning, Classification, Regression, Model Evaluation, Scikit-learn
 - **Application Development**: Mobile App Development, App Deployment, Publishing Processes
 - **Data Analysis**: Power BI, Pandas, Numpy, Matplotlib, Seaborn  
 - **Tools**: Jupyter Notebook, Excel, Tableau  
