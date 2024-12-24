@@ -8,7 +8,8 @@ I'm **Prabesh Rai**, a **Former Flutter Developer**, currently pursuing a **Busi
 ---
 
 ## 🛠 Skills
-- **Programming**: Dart & Flutter, Python, SQL, MySQL 
+- **Programming**: Dart & Flutter, Python, SQL, MySQL
+- **Application Development: Mobile App Development, App Deployment, Publishing Processes
 - **Data Analysis**: Power BI, Pandas, Numpy, Matplotlib, Seaborn  
 - **Tools**: Jupyter Notebook, Excel, Tableau  
 - **Project Management**: Microsoft Project, Gantt Charts  
@@ -19,6 +20,14 @@ I'm **Prabesh Rai**, a **Former Flutter Developer**, currently pursuing a **Busi
 ## 🌟 Projects
 
 ### Featured Projects
+
+- **[Notebook App (Flutter)](https://play.google.com/store/apps/details?id=com.prabeshrai.note_book):**  
+  A Flutter-based mobile application published on the Google Play Store.  
+  **Key Features:**
+  - Provides a user-friendly interface for managing notes.
+  - Includes features to create, edit, and delete notes.
+  - Optimized for performance with a clean, intuitive design.
+  - Demonstrates expertise in **Flutter development** and the **app deployment process**.
 
 - **[Email Spam Classifier](https://github.com/Prabesh789/email-spam-classifier):**  
   A machine learning project to classify emails as spam or not. Built using Python, Jupyter Notebook, and libraries like `scikit-learn`. It demonstrates the complete pipeline from data preprocessing to model evaluation.
