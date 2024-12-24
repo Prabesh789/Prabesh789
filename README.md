@@ -36,7 +36,8 @@ I'm **Prabesh Rai**, a **Former Flutter Developer**, currently pursuing a **Busi
 
 - **[Trek-High Mobile Application](https://github.com/Prabesh789/Trek-High):**  
   A Flutter-based mobile app promoting e-tourism in Nepal, featuring real-time hiking route updates and emergency alerts.
-
+  **[Read the Thesis Paper](https://drive.google.com/file/d/1GoNvlYWyHyffhsZj33vYVf4kvXLIs2z-/view?usp=sharing):** A comprehensive analysis of the app's development, features, and impact on e-tourism.
+    
 - **[Notebook App (Flutter)](https://play.google.com/store/apps/details?id=com.prabeshrai.note_book):**  
   A Flutter-based mobile application published on the Google Play Store.  
   **Key Features:**
