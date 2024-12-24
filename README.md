@@ -29,10 +29,10 @@ I'm **Prabesh Rai** from Nepal, a **Former Flutter Developer**, currently pursui
 - **[Global Tourism Dashboard](https://github.com/Prabesh789/Global-Tourism-Dashboard):**
   An interactive Power BI dashboard analyzing global tourism trends before and after the COVID-19 pandemic.
   
-- **[Exploratory Data Analysis (MySQL)](https://github.com/Prabesh789/eda-mysql):**  
+- **[Exploratory Data Analysis (MySQL)](https://github.com/Prabesh789/Data_Analyst_Bootcamp/blob/main/exploratory_data_analysis.sql):**  
   Conducted comprehensive exploratory data analysis on large datasets to uncover trends and patterns using MySQL.
 
-- **[Trek-High Mobile Application](https://github.com/Prabesh789/trek-high-app):**  
+- **[Trek-High Mobile Application](https://github.com/Prabesh789/Trek-High):**  
   A Flutter-based mobile app promoting e-tourism in Nepal, featuring real-time hiking route updates and emergency alerts.
 
 ---
