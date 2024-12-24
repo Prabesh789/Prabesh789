@@ -41,6 +41,6 @@ I'm **Prabesh Rai**, a **Former Flutter Developer**, currently pursuing a **Busi
 ## 🌐 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prabesh789)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabeshrai)
-
+[![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/prabesh.rai6215)
 ---
 
