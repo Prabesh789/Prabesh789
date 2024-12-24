@@ -23,7 +23,7 @@ I'm **Prabesh Rai**, a **Former Flutter Developer**, currently pursuing a **Busi
 ### Featured Projects
 
 - **[Email Spam Classifier](https://github.com/Prabesh789/email-spam-classifier):**  
-  A machine learning project to classify emails as spam or not. Built using Python, Jupyter Notebook, and libraries like `scikit-learn`. It demonstrates the complete pipeline from data preprocessing to model evaluation.
+  A machine learning project to classify emails as spam or not. Built using Python, Jupyter Notebook, and libraries like `Pandas`, `scikit-learn`. 
 
 - **[Airbnb Full Project (Tableau Dashboard)](https://public.tableau.com/app/profile/prabesh.rai6215/viz/AirbnbFullProject_17344635039170/Dashboard1):**  
   An interactive Tableau dashboard analyzing Airbnb data to uncover trends and insights related to listings, pricing, availability, and host behavior.
