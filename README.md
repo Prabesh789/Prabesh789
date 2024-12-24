@@ -1,14 +1,47 @@
-### Warm Greetings, Hi...
+# Warm Greetings, Hi... 👋
 
- I'm Prabesh from Nepal, a Former Flutter developer, currently pursuing a Business Analytics Program. 
+I'm **Prabesh Rai** from Nepal, a **Former Flutter Developer**, currently pursuing a **Business Analytics Program**. I’m passionate about leveraging technology and data to solve real-world problems and create value.
  
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prabesh789)](https://github.com/anuraghazra/github-readme-stats)
 
-Skills: Flutter and dart.
+---
 
-- 🔭 Former Flutter developer at Yellow Nepal and freelancer. 
-- 🌱 I’m currently learning Information & Technology through Business Perspectives. 
+## 🛠 Skills
+- **Programming**: Dart & Flutter, Python, SQL, MySQL 
+- **Data Analysis**: Power BI, Pandas, Numpy, Matplotlib, Seaborn  
+- **Tools**: Jupyter Notebook, Excel, Tableau  
+- **Project Management**: Microsoft Project, Gantt Charts  
+- **Soft Skills**: Communication, Teamwork, Leadership  
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Prabesh789)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prabesh-rai-2593b6204/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Prabesh_rai567)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://prabeshrai.com.np)  
+## 🌟 Projects
+
+### Featured Projects
+
+- **[Email Spam Classifier](https://github.com/Prabesh789/email-spam-classifier):**  
+  A machine learning project to classify emails as spam or not. Built using Python, Jupyter Notebook, and libraries like `scikit-learn`. It demonstrates the complete pipeline from data preprocessing to model evaluation.
+
+- **[Airbnb Full Project (Tableau Dashboard)](https://public.tableau.com/app/profile/prabesh.rai6215/viz/AirbnbFullProject_17344635039170/Dashboard1):**  
+  An interactive Tableau dashboard analyzing Airbnb data to uncover trends and insights related to listings, pricing, availability, and host behavior.
+
+- **[Global Tourism Dashboard](https://github.com/Prabesh789/Global-Tourism-Dashboard):**
+  An interactive Power BI dashboard analyzing global tourism trends before and after the COVID-19 pandemic.
+  
+- **[Exploratory Data Analysis (MySQL)](https://github.com/Prabesh789/eda-mysql):**  
+  Conducted comprehensive exploratory data analysis on large datasets to uncover trends and patterns using MySQL.
+
+- **[Trek-High Mobile Application](https://github.com/Prabesh789/trek-high-app):**  
+  A Flutter-based mobile app promoting e-tourism in Nepal, featuring real-time hiking route updates and emergency alerts.
+
+---
+---
+
+## 🌐 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prabesh789)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabeshrai)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
+
+---
+
