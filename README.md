@@ -29,8 +29,13 @@ I'm **Prabesh Rai**, a **Former Mobile App Developer**, currently pursuing a **B
 - **[Global Tourism Dashboard](https://github.com/Prabesh789/Global-Tourism-Dashboard):**
   An interactive Power BI dashboard analyzing global tourism trends before and after the COVID-19 pandemic.
   
-- **[Exploratory Data Analysis (MySQL)](https://github.com/Prabesh789/Data_Analyst_Bootcamp/blob/main/exploratory_data_analysis.sql):**  
-  Conducted comprehensive exploratory data analysis on large datasets to uncover trends and patterns using MySQL.
+- **[Exploratory Data Analysis (EDA)](https://github.com/Prabesh789/Exploratory-data-analysis-EDA-/blob/main/data_insights/src/EDA.ipynb):**
+  - Developed a Python script to automate EDA for analyzing primary cancer cases in Canada (1992-2022).
+  - Implemented a modular Python framework with separate components for data ingestion, transformation, and statistical analysis.
+  - Developed a Factory Design Pattern to dynamically load data from multiple sources (CSV, JSON, SQL).
+  - Automated Jupyter Notebook execution using nbconvert, ensuring reproducibility of analysis.
+  - Applied statistical analysis and visualization techniques to uncover key trends in cancer incidence rates, helping derive insights into healthcare trends.
+
 
 - **[Trek-High Mobile Application](https://github.com/Prabesh789/Trek-High):**  
   A Flutter-based mobile app promoting e-tourism in Nepal, featuring real-time hiking route updates and emergency alerts.
