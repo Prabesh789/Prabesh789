@@ -2,7 +2,7 @@
 
 I'm **Prabesh Rai**, a **Former Mobile App Developer**, currently pursuing a **Business Analytics Program**. I’m passionate about leveraging technology and data to solve real-world problems and create value.
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prabesh789)](https://github.com/anuraghazra/github-readme-stats)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prabesh789)](https://github.com/Prabesh789/github-readme-stats)
 ---
 
 ## 🛠 Skills
